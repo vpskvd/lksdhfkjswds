@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "games": {
+    "cs2": {
+      "version": "",
+      "changelog": "",
+      "download_url": "",
+      "sha256": "",
+      "size": 0,
+      "updated_at": "",
+      "outdated": false,
+      "software": ""
+    },
+    "csgo": {
+      "version": "",
+      "changelog": "",
+      "download_url": "",
+      "sha256": "",
+      "size": 0,
+      "updated_at": "",
+      "outdated": false,
+      "software": ""
+    }
+  }
+}
