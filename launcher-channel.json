@@ -21,5 +21,607 @@
       "outdated": false,
       "software": ""
     }
+  },
+  "sources": {
+    "cs2": [
+      {
+        "tag_name": "v1.3.9",
+        "name": "Neverwin 1.3.9",
+        "body": "Fixed Agents glitch after game update",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-15T14:41:21Z",
+        "updated_at": "2026-11-15T14:41:21Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.9",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.9/payload.dll",
+            "size": 16226304,
+            "digest": "sha256:0db34c3766a561d9786e1541220ebf24d0c560acf75b90e054618b1d8f00eb86"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.9/update.json",
+            "size": 577,
+            "digest": "sha256:ccf0595a25173c368b830deead4bb5b83547500f13d8935784748a63f97a84ad"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.8",
+        "name": "Neverwin 1.3.8",
+        "body": "Fixed AirStrafe",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-12T12:18:43Z",
+        "updated_at": "2026-11-12T12:18:43Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.8",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.8/payload.dll",
+            "size": 16226304,
+            "digest": "sha256:ef493c47e0a49b021c60321cdeab7667b689b73ed1cbe79c314609e8459b2858"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.8/update.json",
+            "size": 549,
+            "digest": "sha256:fbeceb3cc912bc01a950ec3dd30fe779b43c961d80726145d9277d7be4de4cf5"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.6",
+        "name": "Neverwin 1.3.6",
+        "body": "aa",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-11T19:28:19Z",
+        "updated_at": "2026-11-11T19:28:19Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.6",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.6/payload.dll",
+            "size": 16226304,
+            "digest": "sha256:c123722005c7702615ed46073d50b0202ecaa793ba9dd42b4ff1c952e2a99b58"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.6/update.json",
+            "size": 533,
+            "digest": "sha256:19180a10d81891e57d6cf0ce2db6ef92a7e9dfb77c0f40d5d7dc56e62310f824"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.5",
+        "name": "Neverwin 1.3.5",
+        "body": "hz",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-11T19:03:02Z",
+        "updated_at": "2026-11-11T19:03:02Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.5",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.5/payload.dll",
+            "size": 16226304,
+            "digest": "sha256:edbcac1b7892ba4b97942755fb0fbf8c1c2eb5cc95a0f19b3c365b643e1ab9d0"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.5/update.json",
+            "size": 533,
+            "digest": "sha256:e3a1c0e50945285b1da2aa17be4ae4079bc5c2443d49a89f64d13bd84902ca1e"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.4",
+        "name": "Neverwin 1.3.4",
+        "body": "The native Air Strafe can now strafe toward a direction set from Lua (via movement.airstrafe_directional and movement.airstrafe_boost), at full native speed, without turning the camera or pressing movement keys, and works with Silent Throw.\nWhen no direction is set, Air Strafe works as before; movement.airstrafe tells scripts that the loaded DLL has this patch.",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-10T17:14:29Z",
+        "updated_at": "2026-11-10T17:14:29Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.4",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.4/payload.dll",
+            "size": 16226304,
+            "digest": "sha256:acd5c08adb0913b2da0f5d1e4d372372c6abae1d26b100bdb68eed814cd7cec2"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.4/update.json",
+            "size": 1013,
+            "digest": "sha256:a8ed134cbeeccae4f8be4083ceb74fae4ed209e4d4ede4af25e55ae28c287c74"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.3",
+        "name": "Neverwin 1.3.3",
+        "body": "200",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-10T16:38:07Z",
+        "updated_at": "2026-11-10T16:38:07Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.3",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.3/payload.dll",
+            "size": 16226304,
+            "digest": "sha256:2ef05ac07e648a9635e74090f3bf23a3cd65665259fad4c519cfeb4ce39022b0"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.3/update.json",
+            "size": 533,
+            "digest": "sha256:19f218b67fc345dbdc337f6559ccfaf4cdc2664eab16583619e3e25f5b190339"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.2",
+        "name": "Neverwin 1.3.2",
+        "body": "Fixed an issue where agents would disappear after a side switch.\nFixed doubling binds in hotkeys.",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-08T15:51:43Z",
+        "updated_at": "2026-11-08T15:51:43Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.2",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.2/payload.dll",
+            "size": 16226304,
+            "digest": "sha256:2ef05ac07e648a9635e74090f3bf23a3cd65665259fad4c519cfeb4ce39022b0"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.2/update.json",
+            "size": 661,
+            "digest": "sha256:6550fd7565bc5f9f3e451dd3d78948b444c955167e052d2c61947125f5e47b22"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.1",
+        "name": "Neverwin 1.3.1",
+        "body": "Fixed FPS animation in watermark, removed animation.\nFixed local grenade proximity when throwing grenade",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-07T20:26:14Z",
+        "updated_at": "2026-11-07T20:26:14Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.1",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.1/payload.dll",
+            "size": 16007680,
+            "digest": "sha256:d2924328d9074706a14613de1f9ea56e7ffa9c03531e28ae2947fdea2235e9db"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.1/update.json",
+            "size": 669,
+            "digest": "sha256:3eb0abb9d2dc3ad548e8c2b2b36f23fb05da1eaa641311271a32e6cf6032e33c"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.3.0",
+        "name": "Neverwin 1.3.0",
+        "body": "Updated the Profile tab.\nRemoved Bind Guard.\nRemoved hidden features. Any enabled in existing configs will be forcibly disabled.\nFixed JumpBug.\nFixed square combo boxes in All Hotkeys.\nRemoved the extra slider on the right side of Misc.\nand some more...",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-06T20:33:10Z",
+        "updated_at": "2026-11-06T20:33:10Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.3.0",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.0/payload.dll",
+            "size": 15569408,
+            "digest": "sha256:960e2d19e188439bbca1fd963b55609459c5476c935cae8fd3f75a0d1b5f6c52"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.3.0/update.json",
+            "size": 873,
+            "digest": "sha256:739d40c3739c66f0f60578ca7d320fb2182bfc837cdb58554accbf4bd241d7bb"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.2.8",
+        "name": "Neverwin 1.2.8",
+        "body": "pizda...",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T17:41:10Z",
+        "updated_at": "2026-11-05T17:41:10Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.2.8",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.8/payload.dll",
+            "size": 15024128,
+            "digest": "sha256:cd5d2649c5fefc4c833ed1d531cf46bd1d611c17c92c4b4712b3d81acac046c9"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.8/update.json",
+            "size": 541,
+            "digest": "sha256:98b7ce086536277c91d80c4792b9fa89a8885624fac22cc66791fab691a906a9"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.2.7",
+        "name": "Neverwin 1.2.7",
+        "body": "otkat (snova)",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T17:38:04Z",
+        "updated_at": "2026-11-05T17:38:04Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.2.7",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.7/payload.dll",
+            "size": 15352320,
+            "digest": "sha256:c1d5175c508521cf4c1e05a19440179dea8a0a9c0d24344822bc596fec34720d"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.7/update.json",
+            "size": 545,
+            "digest": "sha256:beb443f89bc849731b5e9ca3cb902ac193018efb0f39fe27734e6c9875bd9e73"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.2.6",
+        "name": "Neverwin 1.2.6",
+        "body": "JumpBug: Increased timing samples from 16 to 64 and removed an early exit that could skip valid activation windows.\nMisc: Kept only ClanTag, FakePing, and NameStealer in the additional section. Disabled removed features even when enabled in older configs.",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T16:46:46Z",
+        "updated_at": "2026-11-05T16:46:46Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.2.6",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.6/payload.dll",
+            "size": 15024128,
+            "digest": "sha256:bb9f5a3b79a225d882205d9b71e0df1dfad1d67489529198ac6b6b3bfffa983a"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.6/update.json",
+            "size": 869,
+            "digest": "sha256:63e5d033850b17edf281485fb7120dd879c0a6ced918144f687970ce064088e6"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.2.5",
+        "name": "Neverwin 1.2.5",
+        "body": "otkat",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T16:19:58Z",
+        "updated_at": "2026-11-05T16:19:58Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.2.5",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.5/payload.dll",
+            "size": 15024128,
+            "digest": "sha256:cd5d2649c5fefc4c833ed1d531cf46bd1d611c17c92c4b4712b3d81acac046c9"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.5/update.json",
+            "size": 537,
+            "digest": "sha256:1ebc51fe87e3bc19c1445dbfb9e8ee3fd254ddad1bd9dd70100414d91f1b1b95"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.2.4",
+        "name": "Neverwin 1.2.4",
+        "body": "All Hotkeys: Combo boxes now require Ctrl + mouse wheel for scrolling through options, preventing accidental changes. Left-click selection remains available.\nJumpBug: Increased timing samples from 16 to 64 and removed an early exit that could skip valid activation windows.\nMisc: Kept only ClanTag, FakePing, and NameStealer in the additional section. Disabled removed features even when enabled in older configs.\nPreserved original neverlose features.",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T16:11:38Z",
+        "updated_at": "2026-11-05T16:11:38Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.2.4",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.4/payload.dll",
+            "size": 15352320,
+            "digest": "sha256:c1d5175c508521cf4c1e05a19440179dea8a0a9c0d24344822bc596fec34720d"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.4/update.json",
+            "size": 1137,
+            "digest": "sha256:c897536cbd7b3b1e69e5e2ace85a37d4510a52c2474533c9339970947be6309f"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.2.2",
+        "name": "Neverwin 1.2.2",
+        "body": "fixes",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T13:56:45Z",
+        "updated_at": "2026-11-05T13:56:45Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.2.2",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.2/payload.dll",
+            "size": 15024128,
+            "digest": "sha256:cd5d2649c5fefc4c833ed1d531cf46bd1d611c17c92c4b4712b3d81acac046c9"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.2/update.json",
+            "size": 497,
+            "digest": "sha256:4259c1382e3e95f033e866bfb7e4d0d1df6e53a4ce81f9466b0fa49eb8c631ef"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.2.1",
+        "name": "Neverwin 1.2.1",
+        "body": "",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T12:24:12Z",
+        "updated_at": "2026-11-05T12:24:12Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.2.1",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.1/payload.dll",
+            "size": 15024128,
+            "digest": "sha256:cd5d2649c5fefc4c833ed1d531cf46bd1d611c17c92c4b4712b3d81acac046c9"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.2.1/update.json",
+            "size": 493,
+            "digest": "sha256:65b6b9059c17cbc1e9d908dd72cff7cb571e65a8bc65932e39548b9b55fe56ba"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.1.6",
+        "name": "Neverwin 1.1.6",
+        "body": "eee",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-05T12:20:15Z",
+        "updated_at": "2026-11-05T12:20:15Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.1.6",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.6/payload.dll",
+            "size": 15024128,
+            "digest": "sha256:cd5d2649c5fefc4c833ed1d531cf46bd1d611c17c92c4b4712b3d81acac046c9"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.6/update.json",
+            "size": 497,
+            "digest": "sha256:cc91edab8e2baeb74a27d939a9651625580ce0cd0dbef495ad0b4478d9b1b95f"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.1.5",
+        "name": "Neverwin 1.1.5",
+        "body": "",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-04T21:02:38Z",
+        "updated_at": "2026-11-04T21:02:38Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.1.5",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.5/payload.dll",
+            "size": 14814208,
+            "digest": "sha256:25e64c081823c90f09fd8cc21640eef4ad9893768f2752c7afcb762489a364e5"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.5/update.json",
+            "size": 493,
+            "digest": "sha256:fa1775d41c98a98a687e919a49df9374c0f592f9e461b93eba29f7d765b73008"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.1.3",
+        "name": "Neverwin 1.1.3",
+        "body": "Fixed an issue where not clears clantag after being disabled",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-04T20:39:04Z",
+        "updated_at": "2026-11-04T20:39:04Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.1.3",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.3/payload.dll",
+            "size": 14814208,
+            "digest": "sha256:e27eb6a87ca51e44a1de3d844f175c7b1649fb1a39a569d73f1a39f0e34df563"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.3/update.json",
+            "size": 573,
+            "digest": "sha256:28a9e71d0d60f354ced3a8cf44915f2f969da5077b4bf6e0309373cf9e07ea3e"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.1.2",
+        "name": "Neverwin 1.1.2",
+        "body": "asd",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-04T20:12:45Z",
+        "updated_at": "2026-11-04T20:12:45Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.1.2",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.2/payload.dll",
+            "size": 14814208,
+            "digest": "sha256:818861e067f0d52f27ab400b7c8e1391b0952dcde952a29163f3beb32c7827cc"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.2/update.json",
+            "size": 497,
+            "digest": "sha256:c52be3288e0478e78d46aa9748a827b119aad9129b754a29757ef08a82120417"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.1.1",
+        "name": "Neverwin 1.1.1",
+        "body": "- fixed an issue with configs cause loading default every inject",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-04T13:23:26Z",
+        "updated_at": "2026-11-04T13:23:26Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.1.1",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.1/payload.dll",
+            "size": 14567936,
+            "digest": "sha256:6ab01b38b2428d49b84f7f63faf9343b91130cddcd561cfab658460b0fc2424d"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.1.1/update.json",
+            "size": 577,
+            "digest": "sha256:1f665559866deedca7c94b54f9223308770ad9dafe6bd7add49b3c15a3726610"
+          }
+        ]
+      },
+      {
+        "tag_name": "v1.0.1",
+        "name": "Neverwin 1.0.1",
+        "body": "Исправлено сохранение настроек Lua.\nДобавлена автозагрузка скриптов с конфигом.",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-04T11:40:23Z",
+        "updated_at": "2026-11-04T11:40:23Z",
+        "html_url": "https://github.com/fuwaes/aaasdsda/releases/tag/v1.0.1",
+        "assets": [
+          {
+            "name": "payload.dll",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.0.1/payload.dll",
+            "size": 14567936,
+            "digest": "sha256:d3d4f4718f3a2924976e06b4f3c905e2a2c0a18d6d23edd6997ebb3f813bd77b"
+          },
+          {
+            "name": "update.json",
+            "browser_download_url": "https://github.com/fuwaes/aaasdsda/releases/download/v1.0.1/update.json",
+            "size": 685,
+            "digest": "sha256:0f01f8bb8701bb266604b63ff81b45c13b464c0c44e2f9620050e150ec1f360e"
+          }
+        ]
+      }
+    ],
+    "csgo_neverlose": [
+      {
+        "tag_name": "v1",
+        "name": "uwu",
+        "body": "",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-13T13:46:20Z",
+        "updated_at": "2026-11-14T15:47:45Z",
+        "html_url": "https://github.com/vpskvd/ksamfjlwken/releases/tag/v1",
+        "assets": [
+          {
+            "name": "injector.exe",
+            "browser_download_url": "https://github.com/vpskvd/ksamfjlwken/releases/download/v1/injector.exe",
+            "size": 20480,
+            "digest": "sha256:b2bfc11f8596084d3bd9d03f5729f585732fa93df404dd58915bd9d914558170"
+          },
+          {
+            "name": "neverlose-server.exe",
+            "browser_download_url": "https://github.com/vpskvd/ksamfjlwken/releases/download/v1/neverlose-server.exe",
+            "size": 9217024,
+            "digest": "sha256:1d74a2601192e03a023706467922e0c496078ab407d9a693e948921c159c36c9"
+          },
+          {
+            "name": "neverlose.dll",
+            "browser_download_url": "https://github.com/vpskvd/ksamfjlwken/releases/download/v1/neverlose.dll",
+            "size": 55753216,
+            "digest": "sha256:05b251487db511791893a6a5bc47a98c5e54a88b303bb0ce134c30c1cc6c1215"
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "browser_download_url": "https://github.com/vpskvd/ksamfjlwken/releases/download/v1/SHA256SUMS.txt",
+            "size": 249,
+            "digest": "sha256:d2dff11d42a2cac7b9d58114ea2e1319465533778335156aa71e8ae72068e20f"
+          }
+        ]
+      }
+    ],
+    "csgo_gamesense": [
+      {
+        "tag_name": "v2",
+        "name": "uwu",
+        "body": "",
+        "prerelease": false,
+        "draft": false,
+        "published_at": "2026-11-14T15:11:09Z",
+        "updated_at": "2026-11-14T15:48:22Z",
+        "html_url": "https://github.com/vpskvd/potehwjbn/releases/tag/v2",
+        "assets": [
+          {
+            "name": "launchoptions.txt",
+            "browser_download_url": "https://github.com/vpskvd/potehwjbn/releases/download/v2/launchoptions.txt",
+            "size": 9,
+            "digest": "sha256:5136424b47929451641c04a8ccf1ec89116eca84376729cf3a4871154e0d80e7"
+          },
+          {
+            "name": "skeet-injector.exe",
+            "browser_download_url": "https://github.com/vpskvd/potehwjbn/releases/download/v2/skeet-injector.exe",
+            "size": 32768,
+            "digest": "sha256:811bc36c21c54206de87d91d0c41a28a53f895b4f7dc23539fadcbb8b1bb66b4"
+          },
+          {
+            "name": "skeet.dll",
+            "browser_download_url": "https://github.com/vpskvd/potehwjbn/releases/download/v2/skeet.dll",
+            "size": 14071808,
+            "digest": "sha256:670955c376e3db74eaea2dbe9d8b6e75f571de001b7855f7e5f4aa7c34644aa4"
+          }
+        ]
+      }
+    ]
   }
 }
